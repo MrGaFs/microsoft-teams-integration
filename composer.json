@@ -1,0 +1,6 @@
+{
+    "require": {
+        "microsoft/microsoft-graph": "^1.73",
+        "adnanhussainturki/microsoft-api-php": "^0.03.0"
+    }
+}
